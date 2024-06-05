@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Crate
+  - PushableBox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - SolidObjects
+  - PushableBox
+  - FullCollision
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 398841331
+    locked: 0
+  - name: Foreground
+    uniqueID: 4110557495
+    locked: 0
+  - name: Objects
+    uniqueID: 3821573661
+    locked: 0
+  - name: Player
+    uniqueID: 1414867451
+    locked: 0
+  - name: Upperground
+    uniqueID: 80958129
+    locked: 0
